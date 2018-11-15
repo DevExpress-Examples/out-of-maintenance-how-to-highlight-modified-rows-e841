@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ViewModel.cs](./CS/AnimateChangedRows/ViewModel.cs) (VB: [ViewModel.vb](./VB/AnimateChangedRows/ViewModel.vb))
+* [Window1.xaml](./CS/AnimateChangedRows/Window1.xaml) (VB: [Window1.xaml.vb](./VB/AnimateChangedRows/Window1.xaml.vb))
+* [Window1.xaml.cs](./CS/AnimateChangedRows/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/AnimateChangedRows/Window1.xaml.vb))
+<!-- default file list end -->
 # How to highlight modified rows
 
 
